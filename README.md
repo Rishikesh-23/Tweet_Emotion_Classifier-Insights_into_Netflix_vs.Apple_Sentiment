@@ -62,7 +62,7 @@ Netflix_vs_Apple_Sentiment_Analysis/
 ---
 
 ## Dataset
-- **Source**: Kaggle (or mention the actual dataset source).
+- **Source**: Kaggle .
 - **Size**: Contains thousands of tweets for both Netflix and Apple.
 - **Columns**: `Tweet`, `Company`, `Sentiment` (Positive/Negative).
 
