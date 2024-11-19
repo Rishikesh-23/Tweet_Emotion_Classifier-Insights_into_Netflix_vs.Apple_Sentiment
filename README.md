@@ -114,4 +114,5 @@ Netflix_vs_Apple_Sentiment_Analysis/
 - Email: rishikesh23@kgpian.iitkgp.ac.in
 
 ---
-
+## License
+-** This project is licensed under the MIT License. See the LICENSE file for details. **
