@@ -110,8 +110,8 @@ Netflix_vs_Apple_Sentiment_Analysis/
 
 ## Contributors
 - **Rishikesh** 
-- Linkedin 
-- Email_id 
+- LinkedIn: www.linkedin.com/in/rishikesh-a12090285
+- Email: rishikesh23@kgpian.iitkgp.ac.in
 
 ---
 
